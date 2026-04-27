@@ -1,13 +1,13 @@
 # Hardware ⚙
 
 ## Access
-> Ryan Bainbridge
+- Ryan Bainbridge
 
 ```
 {Ryan's email?}
 ```
 ## Purpose
-> This repository stores the licensing, schematics, and BOM (bill of materials) for the PyCubed boards.
+- This repository stores the licensing, schematics, and BOM (bill of materials) for the PyCubed boards.
 
 <br><br>
 <p align="middle">

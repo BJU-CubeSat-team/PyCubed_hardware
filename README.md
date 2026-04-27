@@ -2,6 +2,7 @@
 
 ## Access
 - Ryan Bainbridge
+- [rbain897@students.bju.edu](mailto:rbain897@students.bju.edu)
 
 ```
 rbain897@students.bju.edu

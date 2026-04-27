@@ -3,10 +3,6 @@
 ## Access
 - Ryan Bainbridge
 - [rbain897@students.bju.edu](mailto:rbain897@students.bju.edu)
-
-```
-rbain897@students.bju.edu
-```
 ## Purpose
 - This repository stores the licensing, schematics, and BOM (bill of materials) for the PyCubed boards.
 
